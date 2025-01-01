@@ -11,6 +11,7 @@ int main()
    printf("Enter the value of b:");
    scanf("%d", &b);
 
+   // compare of three numbers//
    if (a > b)
    {
       printf("a is greater");
