@@ -1,9 +1,12 @@
 #include <stdio.h>
 int main()
 {
+   // Taking input first  number
    int a;
    printf("Enter the value of a:");
    scanf("%d", &a);
+   
+   // Taking input first  number
    int b;
    printf("Enter the value of b:");
    scanf("%d", &b);
