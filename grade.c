@@ -1,8 +1,11 @@
 #include<stdio.h>
 int main(){
+    // Taking mark as input
     int mark;
     printf("enter the mark:");
     scanf("%d",&mark);
+
+    // checking the grade of marks
     if(mark>=0 && mark<30){
         printf("c");
     }
