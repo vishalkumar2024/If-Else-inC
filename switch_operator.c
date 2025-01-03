@@ -1,6 +1,7 @@
 //code for switch operator //
  #include<stdio.h>
 int main (){
+ // Taking input the days 
     int day;
     printf("enter the days(1-7):");
     scanf("%d",&day);
